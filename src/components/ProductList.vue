@@ -109,8 +109,8 @@
   
   @media (max-width: 600px) {
     .product {
-      flex-direction: column;
-      align-items: center;
+      /* flex-direction: column;
+      align-items: center; */
     }
   
     .product-image {
